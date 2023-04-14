@@ -9,3 +9,23 @@
     gap: .5vh;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.name {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: .5vh;
+}
+
+.profilePicture {
+    width: 55px;
+    height: 55px;
+    border-radius: 10px;
+}
+
+.cardTitle {
+    padding: 0;
+    margin: 0; 
+    display: flex;
+    align-items: center;
+}
